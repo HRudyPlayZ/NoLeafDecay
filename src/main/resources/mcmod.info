@@ -1,0 +1,16 @@
+[
+{
+  "modid": "noleafdecay",
+  "name": "No Leaf Decay",
+  "description": "Removes leaf decay from minecraft.",
+  "version": "1.0",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["HRudyPlayZ"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
